@@ -94,9 +94,10 @@
 
         <v-list-tile :to="{ name: 'pcfg'}">
           <v-list-tile-action>
+            <v-icon>linear_scale</v-icon>
           </v-list-tile-action>
           <v-list-tile-content>
-            <v-list-tile-title>pcfg</v-list-tile-title>
+            <v-list-tile-title>Pcfg</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
 

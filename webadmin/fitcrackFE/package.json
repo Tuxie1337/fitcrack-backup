@@ -30,7 +30,7 @@
     "vue-json-tree-view": "^2.1.4",
     "vue-json-viewer": "^1.0.4",
     "vue-material-design-icons": "^1.6.0",
-    "vue-moment": "^3.2.0",
+    "vue-moment": "^4.1.0",
     "vue-morris": "0.0.13",
     "vue-progressbar": "^0.7.5",
     "vue-router": "^3.0.1",
